@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+%E8%B5%AB%E8%B5%AB;Full+Stack+Developer;Spring+Boot+%7C+Vue+%7C+Python;AI+%7C+Cloud+Native;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+%E8%B5%AB%E8%B5%AB;Java+Backend+Developer;%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91+%7C+%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9E%B6%E6%9E%84+%7C+AI+%E5%BA%94%E7%94%A8;%E6%AC%A2%E8%BF%8E%E4%BA%A4%E6%B5%81+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/zhx1233?style=for-the-badge&logo=github&color=6366F1&labelColor=1F2937)](https://github.com/zhx1233)
 [![Profile Views](https://komarev.com/ghpvc/?username=zhx1233&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/zhx1233)
@@ -12,19 +12,17 @@
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=mybatis&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis_Plus-FF0000?style=for-the-badge&logo=mybatis&logoColor=white)
+![ShardingSphere](https://img.shields.io/badge/ShardingSphere-FF6B00?style=for-the-badge&logo=apacheshardingsphere&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nacos](https://img.shields.io/badge/Nacos-3EB9FF?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-3EB9FF?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -38,55 +36,87 @@
 
 ## 🚀 Featured Projects
 
+<br/>
+
 <div align="center">
+<a href="https://github.com/zhx1233/shortlink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhx1233&repo=shortlink&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&description_lines_count=3" />
+</a>
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🔗 SaaS 短链接平台
+### 🔗 链析 — 内容创作者短链流量分析工具
 
-[![shortlink](https://github-readme-stats.vercel.app/api/pin/?username=zhx1233&repo=shortlink&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/zhx1233/shortlink)
+> **JDK17 + SpringBoot3 + SpringCloud 微服务 | 独立开发后端三模块**
+
+面向个人创作者与小微内容团队，提供长链接一键缩链、按分发平台分组管理、链接有效期配置，内置 **PV/UV/UIP 访问量、地域分布、设备/浏览器/OS、访问时段**等全维度数据统计，帮助创作者量化公众号、小红书、朋友圈等多平台分发效果，用数据反哺内容策略。
 
 <img src="https://oss.open8gu.com/image-20231026132606180.png" width="100%" />
 
-**高并发、海量存储的企业级 SaaS 短链接系统**
+<table>
+<tr><td>
 
-> JDK17 + SpringBoot3 + SpringCloud 微服务架构
+#### 🎯 核心技术实践
 
-✨ **亮点**
-- 🎯 支持海量并发短链接生成与跳转
-- 🏢 SaaS 多租户架构，数据隔离
-- 📊 完整的访问统计与分析（地域/设备/浏览器/网络）
-- 🔐 JWT 鉴权 + RBAC 权限控制 + 流量风控
-- ⚡ Redis 缓存 + 布隆过滤器 + ShardingSphere 分库分表
-- 🎨 精美 Vue3 前端控制台
+| 模块 | 技术方案 | 解决的问题 |
+|------|---------|-----------|
+| **多级缓存架构** | Redis → 布隆过滤器 → 空值缓存 → 分布式锁 | 防穿透/击穿，压测缓存命中 **3500+ QPS，< 1ms** |
+| **水平分表 + 路由表** | ShardingSphere 16 表 + t_link_goto 路由表 | 应对数据膨胀，跳转时路由表补全分片键，精确路由到单表 |
+| **异步统计写入** | Redis Stream 消息队列 + 消费者幂等 | 跳转不阻塞，统计异步处理；两阶段 SETNX 防重复消费 |
+| **缓存一致性** | 先更新数据库再删缓存 | 避免并发窗口期写脏数据；缓存过期时间兜底 |
+| **并发安全控制** | Redisson 读写锁（short-link 粒度） | 变更分发平台时加写锁，统计消费加读锁，迁移期间数据不丢 |
+| **接口保护** | Sentinel QPS 限流 + Gateway Token 鉴权 + 请求头透传 | 防恶意刷量，统一鉴权，下游无需重复依赖 Redis |
 
-</td>
-<td width="50%" valign="top">
-
-### 🏥 医疗影像 AI 辅助诊断平台
-
-[![medical](https://github-readme-stats.vercel.app/api/pin/?username=zhx1233&repo=the-medical-project-t1&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/zhx1233/the-medical-project-t1)
-
-```
-🏥 医疗影像管理 + AI 诊断 + 科研反馈 + 智能 Agent
-   医生 → 科研 → 管理员 → Agent 四角色闭环
-```
-
-✨ **亮点**
-- 🤖 **肺炎 AI 推理**：PyTorch + ResNet + Grad-CAM 标注
-- 🧠 **飞雁 Agent**：LangGraph + RAG + HITL 安全确认
-- 👨‍⚕️ 医生 AI 诊断辅助闭环（上传→推理→反馈→导出）
-- 🔬 科研反馈→模型测试→发布评审链路
-- 🛡️ 管理员审计 + 高风险操作二次确认
-- 🐳 Docker Compose 一键部署
-
-</td>
-</tr>
+</td></tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/zhx1233/the-medical-project-t1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhx1233&repo=the-medical-project-t1&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&description_lines_count=3" />
+</a>
+</div>
+
+<br/>
+
+### 🏥 医影智诊 — 医疗影像管理与 AI 辅助诊断平台
+
+> **Spring Boot 3 + MyBatis-Plus + PostgreSQL | 6 人团队，担任后端开发**
+
+面向医生、科研人员和管理员三角色，围绕 **"病例管理 → 影像上传 → AI 诊断 → 结果审核 → 科研反馈"** 构建完整业务闭环。医生上传胸部 X 光发起肺炎 AI 推理，科研人员分析反馈优化模型，管理员维护权限和审计日志。后端全部接口由我开发。
+
+```
+Spring Boot 后端 ──HTTP──▶ Python CV 推理服务 (PyTorch + ResNet + Grad-CAM)
+       │                        │
+       └──HTTP──▶ Python Agent 服务 (FastAPI + LangGraph + RAG)
+                        │
+                        ▼
+                  PostgreSQL (业务 + 科研 + Agent 会话)
+```
+
+<table>
+<tr><td>
+
+#### 🎯 核心技术实践
+
+| 模块 | 技术方案 | 解决的问题 |
+|------|---------|-----------|
+| **多角色 RBAC 权限** | 自写 JwtInterceptor + RoleAccessPolicy 路径匹配 | 三角色接口级权限隔离，非 Spring Security 注解，Token 黑名单登出 |
+| **异步推理任务管理** | 自定义线程池 + 状态机流转 | AI 推理耗时几十秒，接口立即返回 taskId，后台异步执行 queued→running→completed/failed |
+| **外部 AI 服务对接** | WebClient multipart 文件传输 | 调 Python CV 服务推理，处理超时、异常容错、标注图下载 |
+| **操作审计日志** | OperationLogInterceptor 拦截 + 管理端查询 | 关键操作全量留痕，支持按时间/类型追溯，满足合规要求 |
+| **Docker Compose 编排** | 前端 + 后端 + CV + Agent + PostgreSQL 一键启动 | 全栈 5 服务统一编排，首次启动自动初始化 schema 和种子数据 |
+
+</td></tr>
+</table>
 
 <br/>
 
